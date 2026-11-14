@@ -6,6 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@mercuryworkshop/wisp-js": "^1.1.1"
+    "@mercuryworkshop/wisp-js": "1.0.0"
   }
 }
